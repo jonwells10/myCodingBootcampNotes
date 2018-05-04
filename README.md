@@ -34,6 +34,23 @@ removes or deletes a file
 ### rmdir < directory >
 removes or deletes a directory 
 
+### cp <targetfile> <destination file>
+Copies a file from target to destination 
+
+### mv <targetfile> <destination file>
+Moves a file from target to destination 
+
+## Cool Terminal Shortcuts
+Up key: goes to the previous command 
+Tab Key (while typing a file/folder name): Fills out the filename if it's there and unique
+
+### Terminal Special Directories
+~/ = user directory 
+../ = one directory up (goes to parent diretory/folder)
+./ = current directory
+/ = root directory 
+
+
 ### GIT Commands
 git clone  - copies an entire repo (to begin)
 git add     - adds a file for inclusion in GIT
