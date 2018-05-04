@@ -93,3 +93,8 @@ HTML Tags here htt://www.w3schools.com/tags/
 
 ### Stackoverflow 
 Help search for solutions to coding issues
+
+### CSS Syntax
+selctor      property         value
+a        { background-color:  yellow}
+
