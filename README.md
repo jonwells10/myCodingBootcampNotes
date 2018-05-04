@@ -60,3 +60,36 @@ git pull    - downloads the freshest version
 ### GIT Directory
     /Documents/coding_class/myCodingBootCampNotes
 
+### HTML Syntax (code grammar)
+Tag = <h1> <a> or equivalnet 
+attribute: a stands for anchor(means web link)
+<a href="www.google.com"> Link <a/>
+
+Self Closing tag:
+<img src="img.png"> src = source
+
+### Common Tags HTML
+<h1> largest tag through <h5> smallest tag
+
+### Containers
+<html> wraps entire page
+<head> wraps the heads of the page
+<body >wraps the main content
+<div> logical container
+<p> paragraphs
+
+### Others
+<strong> bold
+<img> images; <a href> links; <li> lists; <title> titles; <br> line break; <table> tables; <!-- --> Comments
+
+HTML Tags here htt://www.w3schools.com/tags/
+
+### Common UI (user interface)
+<form> creates form section HTML
+<input> 
+<label>
+<button>
+<textarea>
+
+### Stackoverflow 
+Help search for solutions to coding issues
