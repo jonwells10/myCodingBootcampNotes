@@ -119,9 +119,18 @@ css-tricks
 w3schools.com
 design shack 
 Css newbie
+CodeShip
 
 ### Selection Layout vs Div
 All web layouts inherently composed of containers, traditionally called "divs"
 HTML5 introduced "sematic layouts" meaning divs could be given more meaningful names
+
+### Classes vs IDs
+Classes: (.classname) are to be used if the same style will be used on multiple HTML elements
+IDs: (#idname) are to be used if a style is unique to that HTML element
+
+### Chrome Developer Tools
+Allows to real time show code and debug your web designs 
+
 
 
