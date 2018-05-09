@@ -131,6 +131,19 @@ IDs: (#idname) are to be used if a style is unique to that HTML element
 
 ### Chrome Developer Tools
 Allows to real time show code and debug your web designs 
+Open using: command+option+i
+
+### Battle of Browsers
+Chrome
+Internet Explorer
+Firefox
+Safari 
+
+Pages need to be cross-browser compatible
+
+### Reset.css
+Will reset all browser-specific css
+
 
 
 
