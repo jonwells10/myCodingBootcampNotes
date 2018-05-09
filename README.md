@@ -98,3 +98,30 @@ Help search for solutions to coding issues
 selctor      property         value
 a        { background-color:  yellow}
 
+### Flow
+every element is displayed is governed by a concept called "flow"
+
+### Box Model
+The box model wraps every CSS element in padding; border; and margin;
+*Allows developers to modify spacing styles*
+
+### CSS positioning
+Orient elements different ways
+Static - Default; falls wherever positioned 
+Fixed - Fixed on screen does not move when screen moves
+Relative - postion relative to parent element; inside container
+Absolute - Fixed but scrolls with page
+
+### How to learn
+stack overflow
+smashing magazine 
+css-tricks
+w3schools.com
+design shack 
+Css newbie
+
+### Selection Layout vs Div
+All web layouts inherently composed of containers, traditionally called "divs"
+HTML5 introduced "sematic layouts" meaning divs could be given more meaningful names
+
+
