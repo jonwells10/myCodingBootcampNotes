@@ -144,6 +144,9 @@ Pages need to be cross-browser compatible
 ### Reset.css
 Will reset all browser-specific css
 
+### GitHub Pages
+
+
 
 
 
