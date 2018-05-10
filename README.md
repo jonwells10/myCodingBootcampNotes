@@ -144,7 +144,16 @@ Pages need to be cross-browser compatible
 ### Reset.css
 Will reset all browser-specific css
 
-### GitHub Pages
+### Typography 
+-Visual aesthetic and emotional identy of the page 
+
+Properties:
+Line Height - Distance between lines of text
+Font Size - Actual size of lettering.  At least 16px on modern pages
+Line length - Not a css property but rather a standard. 50-75 characters per line on a desktop
+Letter spacing - Spacing between ivdividual letters - avoid cramping
+Sans-Serif vs Serif - SS fonts include small lines attached to the end strokes of letters, Serif is plane
+
 
 
 
