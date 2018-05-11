@@ -160,6 +160,11 @@ Sans-Serif vs Serif - SS fonts include small lines attached to the end strokes o
 Google Custom fonts available for free
 fonts.google.com
 
+### Pseudo Classes
+CSS has keywords that can be added to selectors. These highlight the special states of a selected element 
 
+Can add effects to buttons
+
+Starts with a colon: hover is when over the button / focus is when you click the button/ active is after you click the button 
 
 
