@@ -167,4 +167,17 @@ Can add effects to buttons
 
 Starts with a colon: hover is when over the button / focus is when you click the button/ active is after you click the button 
 
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements
+
+### Bootstrap
+Predefined css styling
+http://getbootstrap.com
+
+prebuilt templates
+
+
+### Mobile Responiveness 
+page changes as your decrease the page size
+BootStrap has built in mobile response
+
 
