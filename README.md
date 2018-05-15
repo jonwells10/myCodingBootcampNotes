@@ -180,4 +180,10 @@ prebuilt templates
 page changes as your decrease the page size
 BootStrap has built in mobile response
 
+### Bootstrap functionality 
+gylphicon glyphicon-envelope puts an envelope in
+
+UI Kit familarize yourself with features - able to copy snippets from the documentation to save time on creating elements yourself
+
+
 
