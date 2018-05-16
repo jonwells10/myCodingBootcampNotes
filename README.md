@@ -185,5 +185,39 @@ gylphicon glyphicon-envelope puts an envelope in
 
 UI Kit familarize yourself with features - able to copy snippets from the documentation to save time on creating elements yourself
 
+### Basic Variables
+variables are the nouns of programming
+they are "things" (numbers, strings, booleans, etc.)
+they are composed of variable names and values
+
+### JavaScript Stuff
+Basic Variables "Syntax"
+console.log("ajajdjad" true);  console.log allows you to view inputs in the developer tools
+
+var doYouRock = confirm("your message"); confirm - allows you to hit "ok" or "cancel"
+var howMuchRock = prompt("your message") prompt - allows you enter a value when prompted
+
+alert(doYouRock);
+alert(howMuchRock): 
 
 
+### IF/Else
+if (doYouRock) {
+        alert("Message + howMuchRock")
+}
+
+else if (variableName){
+    alert("message")
+}
+
+else (howMuchRock) {
+        document.write("message here")
+}
+
+### Arrays
+
+ArrayName: zooAnimals
+
+var zooAnimals = ["Zebra", "Rhino", "Giraffe", "Owl"];
+
+console.log(ZooAnimals[1]);
