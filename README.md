@@ -191,6 +191,8 @@ they are "things" (numbers, strings, booleans, etc.)
 they are composed of variable names and values
 
 ### JavaScript Stuff
+JavaScrpit is the "logic" of the page. Lets us interact with the page.
+
 Basic Variables "Syntax"
 console.log("ajajdjad" true);  console.log allows you to view inputs in the developer tools
 
@@ -201,7 +203,7 @@ alert(doYouRock);
 alert(howMuchRock): 
 
 
-### IF/Else
+### IF/Else conditions
 if (doYouRock) {
         alert("Message + howMuchRock")
 }
@@ -221,3 +223,17 @@ ArrayName: zooAnimals
 var zooAnimals = ["Zebra", "Rhino", "Giraffe", "Owl"];
 
 console.log(ZooAnimals[1]);
+
+### Console.log
+Used for troubleshooting javascript
+
+Running console log to check an array
+console.log(coolpeople[0])
+console.log("Size: " + coolPeople.length)
+
+### For Loops
+allows you to create an console.log for an whole array
+
+Logical Operators
+|| = or (either could be true)
+&& = and (both must be true)
