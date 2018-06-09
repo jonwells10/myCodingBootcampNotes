@@ -263,6 +263,20 @@ javascript -
 ### Json
 javascript object notation 
 
+JavaScript objects used as "data interchange format" used to correlate keys with values.
+
+ajax used to retrieve data from URL database.
+.ajax get/method 
+
+## Using Json
+
+var queryURL = "http://www.omdbapi.com/?t=" + type + "&y=&plot=short&r=json";
+
+.ajax({url queryURL, method 'GET'})
+.done(function(response){
+    console.log(response);
+});
+
 ### API 
 Application Programming Interface - offers set of pre-defined routines, code snippets, and tools for building software applications.
 
@@ -272,14 +286,7 @@ In it's simplest form an API is an interface that allows one application to talk
 
 examples -   provide pre-built code for getting adn sending dat to a centeralized database (weather data, imdb movie data)
 
-
-
-
-
-
-
-
-
+control physical hardware - smart bulbs, smart thermostats, nodebots
 
 
 ### Bootstrap Notes
